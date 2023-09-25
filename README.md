@@ -3,12 +3,12 @@
 Just a record of positions that each number appears in Pi, up to 9,999,999.
 
 number,position
-14,1
-1415926,1
-5926,4
-535897,8
-314,2120
-0000314,2366817
+- 14,1
+- 1415926,1
+- 5926,4
+- 535897,8
+- 314,2120
+- 0000314,2366817
 
 - The data is stored in .csv files, separated by different digits.
 - Position means where each number starts with in Pi
