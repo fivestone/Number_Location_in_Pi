@@ -3,7 +3,6 @@
 Just a record of positions that each number appears in Pi, up to 9,999,999.
 
 number,position
----------
 14,1
 1415926,1
 5926,4
