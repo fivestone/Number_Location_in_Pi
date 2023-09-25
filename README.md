@@ -4,7 +4,7 @@ Just a record of positions that each number appears in Pi, up to 9,999,999.
 
 The data is stored in a sqlite3 file.
 
-Table: pi_location
+Table: pi_position
 
 | number_str | position  | digits |
 |------------|-----------|--------|
